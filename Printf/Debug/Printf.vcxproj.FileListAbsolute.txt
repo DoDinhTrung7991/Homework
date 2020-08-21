@@ -1,0 +1,2 @@
+C:\Users\dodin\Documents\Printf\Debug\Printf.exe
+C:\Users\dodin\Documents\Printf\Debug\Printf.pdb
