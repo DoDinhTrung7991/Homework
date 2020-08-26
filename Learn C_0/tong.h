@@ -1,0 +1,1 @@
+int Tong(int *so, int *n);

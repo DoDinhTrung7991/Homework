@@ -1,0 +1,1 @@
+void chan_le(int so);
