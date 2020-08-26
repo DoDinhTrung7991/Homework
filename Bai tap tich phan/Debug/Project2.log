@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\dodin\Documents\Project2\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tinh tich phan.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\dodin\Documents\Project2\Debug\Project2.exe
