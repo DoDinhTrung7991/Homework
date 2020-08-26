@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\dodin\Documents\Struct\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\dodin\Documents\Struct\Source.cpp(15,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Phanso'
+C:\Users\dodin\Documents\Struct\Source.cpp(15,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\dodin\Documents\Struct\Source.cpp(15,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\dodin\Documents\Struct\Source.cpp(15,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\dodin\Documents\Struct\Source.cpp(16,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Phanso'
+C:\Users\dodin\Documents\Struct\Source.cpp(16,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\dodin\Documents\Struct\Source.cpp(16,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\dodin\Documents\Struct\Source.cpp(16,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\dodin\Documents\Struct\Source.cpp(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Phanso'
+C:\Users\dodin\Documents\Struct\Source.cpp(17,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\dodin\Documents\Struct\Source.cpp(17,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\dodin\Documents\Struct\Source.cpp(17,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\dodin\Documents\Struct\Source.cpp(18,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Phanso'
+C:\Users\dodin\Documents\Struct\Source.cpp(18,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\dodin\Documents\Struct\Source.cpp(18,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\dodin\Documents\Struct\Source.cpp(18,9): message : the missing variadic argument 2 is required by format string '%d'
+  Source1.cpp
+  Generating Code...
+  Struct.vcxproj -> C:\Users\dodin\Documents\Struct\Debug\Struct.exe

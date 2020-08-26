@@ -1,0 +1,2 @@
+C:\Users\dodin\source\repos\Struct_sv\Debug\Struct_sv.exe
+C:\Users\dodin\source\repos\Struct_sv\Debug\Struct_sv.pdb
