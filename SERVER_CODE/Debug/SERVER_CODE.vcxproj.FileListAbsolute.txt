@@ -1,0 +1,2 @@
+C:\Users\dodin\Documents\SERVER_CODE\Debug\SERVER_CODE.exe
+C:\Users\dodin\Documents\SERVER_CODE\Debug\SERVER_CODE.pdb
