@@ -1,0 +1,2 @@
+C:\Users\dodin\Documents\Bai_tap_SOCKET\Debug\Bai_tap_SOCKET.exe
+C:\Users\dodin\Documents\Bai_tap_SOCKET\Debug\Bai_tap_SOCKET.pdb
