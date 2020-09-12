@@ -1,0 +1,2 @@
+C:\Users\dodin\Documents\preprocessor\Debug\preprocessor.exe
+C:\Users\dodin\Documents\preprocessor\Debug\preprocessor.pdb
