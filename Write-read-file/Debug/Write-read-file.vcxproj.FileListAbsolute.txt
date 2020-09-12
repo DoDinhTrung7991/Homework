@@ -1,0 +1,2 @@
+C:\Users\dodin\Documents\Write-read-file\Debug\Write-read-file.exe
+C:\Users\dodin\Documents\Write-read-file\Debug\Write-read-file.pdb
